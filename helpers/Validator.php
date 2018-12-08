@@ -4,7 +4,7 @@ class Validator {
   private $validateErrors;
   
   /**
-   * Constructor HtAccessValidator
+   * Constructor Validator
    *
    * @param [string] $pathToHtaccess
    * @return void
