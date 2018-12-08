@@ -1,0 +1,10 @@
+<?php
+define('DB_HOST', 'host');
+define('DB_USER', 'user');
+define('DB_PASSWORD', 'pass');
+define('DB_NAME', 'db');
+
+define('CATALOG_SECTIONS_TABLE_NAME', 'sections_table');
+define('CATALOG_ITEMS_TABLE_NAME', 'items_table');
+define('ROOT_SECTION_ID', '0');
+?>
