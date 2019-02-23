@@ -1,6 +1,6 @@
 ## Validators of tree structure catalog in the context of  .htaccess
 
-The following checks are performed:
+#### The following checks are performed:
 
 - lost (hidden) sections catalog Ids which meet the conditions: the section has child, has no parent and it's not the root section
 - lost items (if parent sections don't exist)
