@@ -1,6 +1,4 @@
-## Validators of tree catalog structure and .htaccess file
-
-### Module for validation of  tree structure catalog in the context of  .htaccess
+## Validators of tree structure catalog in the context of  .htaccess
 
 The following checks are performed:
 
