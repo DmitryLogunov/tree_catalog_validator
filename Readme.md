@@ -1,4 +1,4 @@
-## Validators of tree structure catalog in the context of  .htaccess
+## Validators of tree structure catalog in the context of  .htaccess file
 
 #### The following checks are performed:
 
